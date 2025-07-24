@@ -1,2 +1,2 @@
 # kalkulatorpy
-Simple program kalkulator dengan tkinter python
+Program kalkulator sederhana menggunakan tkinter python
